@@ -15,7 +15,7 @@ In this regard, being able to speak English led me to discover a variety of valu
 
 I started backpacking since 14. I traveled to 27 countries so far. I was impressed by wonderful historial sites but people I have met while traveling impressed me more. In fact some of them practically have changed how I see life now. In this project, I want to introduce my friends who have inspired me, awakened me through sharing their visions in life. 
 
-<strong>tl;dr</strong>, 'People I've Met' is a tribute project for my friends around the world for coloring my life with millions of colors. With the lessons I learnt on the road, I have become brave to question what is always accepted as 'Good life'. Later, I would like to publish a book out of the project so that young generation of my country can feel less anxious about to want different elements in life. 
+<strong>tl;dr</strong>, 'People I've Met' is a tribute project for my friends around the world for coloring my life with millions of colors. With the lessons I learnt on the road, I have become brave to question what is always accepted as a 'Good life'. Later, I would like to publish a book out of the project so that young generation of my country can feel less anxious about to want different elements in life. 
 
 
 
