@@ -143,7 +143,7 @@ img.hand {
 .container h2 {
 	font-size: 2.5em;
  padding: 10px;
-color: #191b1d;
+color: #464a4e;
  text-align: center;
  letter-spacing: 0.02em;
 }
@@ -288,7 +288,7 @@ color: #191b1d;
 @media screen and (max-width:450px) {
 
 header{
-	position: relative;
+	position: fixed;
 	width:100%;
 	height:16em;
 }
@@ -366,8 +366,9 @@ img.hand{
 	
 }
 .container h2 {
-	margin-top: 256px;
-	font-size:1.8em;
+	margin-top: 280px;
+	font-size:1.7em;
+	
 		
 }
 .people {
