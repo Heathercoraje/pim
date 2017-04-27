@@ -1,5 +1,5 @@
 # heather.github.io
-People I've Met 
+<strong>People I've Met</strong> 
 
 This is a final project of building a simple one-page website for Founders and Coders.
 
