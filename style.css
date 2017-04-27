@@ -431,26 +431,22 @@ img.hand{
 	height:100%;
 	overflow:hidden;}
 	
+.container {
+	margin-left:450px;
+	}
 /* fix for author part */
 
 .introBack{
-	width:100%;
+	width:1400px;
 	height:100%;
+	overflow:hidden;
 	
 }
 .intro {
-width:100%;
-height:70%;
+margin-top:8em;
+
 }
-	
-.intro img{
-width:10%;
-}
-	
-.intro h2 {
-width:80%
-	
-	
+		
 	
 	
 	
