@@ -22,7 +22,7 @@
       <div class="container-fluid">
         <div class="col-md-3 left-nav">
           <header>
-            <h1 class="title"><a href="public/index.php">People<br />
+            <h1 class="title"><a href="../public/index.php">People<br />
             I've Met</a></h1>
           </header>
           <nav>
