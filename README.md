@@ -1,7 +1,7 @@
 # People I've Met
 
 _This project was originally built with plain HTML and CSS for the application of Founders& Coders.
-This has been updated with Javascript, php and mySQL integrated. Project updates every now and then. Current this sites lives [here](http://pim-yhk7830329.codeanyapp.com/public/index.php)_
+This has been updated with Javascript, php and mySQL integrated. Project updates every now and then. Current this sites lives [here](http://pim-yhk7830329.codeanyapp.com/public/index.php) inside code editor but has not been deployed yet_ 
 
 Dear all,
 
