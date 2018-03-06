@@ -1,0 +1,191 @@
+body {
+	margin: 0;
+	width: 100vw;
+	height: 100vh;
+	overflow: hidden;
+	font-family: 'Roboto Condensed', sans-serif;
+	letter-spacing: 0.5px;
+}
+a {
+	text-decoration: none !important;
+}
+header {
+	padding-bottom: 2.5rem;
+}
+nav {
+	padding-left: 1.5rem;
+}
+ol {
+	padding: 0;
+}
+nav li {
+	list-style: none;
+	margin-bottom: 1.2rem;
+	font-size: 2rem;
+}
+nav ol li a {
+	color: #ffffff;
+}
+
+footer {
+	position: fixed;
+	bottom: 1.2rem;
+}
+.container-fluid {
+	height: 100%;
+	padding: 0;
+}
+.left-nav {
+	height: 100%;
+	background-color: #377980ad;
+	border-right: 2px solid lightskyblue;
+}
+.title a {
+	font-size: 2em;
+	font-weight: bold;
+	color: white;
+}
+.right-content {
+	padding: 0;
+	height: 100%;
+}
+.add-button {
+	position: fixed;
+	bottom: 7.2rem;
+}
+.intro {
+	font-size: 1.8rem;
+	padding: 0 3rem 3rem 3rem;
+}
+article {
+	height: 100%;
+	padding-top: 20px;
+}
+.content-text {
+	margin: 10px auto;
+	width: 80%;
+	text-align: center;
+	background-color: #000000d4;
+	color: white;
+}
+.content-text h1 {
+	margin-top: 0;
+}
+.peace {
+	font-size: 13rem;
+	margin: 0;
+}
+.people-container {
+	text-align: center;
+	width: 95%;
+	height: auto;
+	border: 1px solid black;
+	border-radius: 2px;
+	margin: 10px;
+	padding: 0 5px;
+	background-color: #000000de;
+	color: white;
+}
+.people-container p {
+	font-size: 1.5rem;
+}
+.people-pic {
+	width: 92%;
+	height: 250px;
+	margin: 10px auto;
+}
+.profile-pic {
+	margin: 3rem auto 0 auto;
+	width: 210px;
+	border-radius: 50%;
+	display: inline;
+}
+.profile-container {
+	padding-top: 2.5rem;
+	display: flex;
+	flex-direction: row;
+}
+.profile-intro {
+	box-sizing: content-box;
+	padding: 0 3rem;
+	width: 50%;
+	text-align: left !important;
+}
+.profile-datail {
+	padding: 0 3rem;
+	width: 50%;
+	box-sizing: content-box;
+}
+.form-container {
+	padding: 5%;
+}
+input,
+textarea {
+	margin-bottom: 1.5%;
+	font-size: 2rem;
+}
+.wrapper {
+	margin-top: 80px;
+}
+.form-add {
+	min-width: 500px !important;
+	padding-bottom: 1.5rem !important;
+}
+.form-login {
+	max-width: 380px;
+	padding: 15px 35px 45px;
+	margin: 0 auto;
+	background-color: #fff;
+	border: 1px solid rgba(0, 0, 0, 0.1);
+}
+.form-login .form-login-heading,
+.form-login {
+	margin-bottom: 30px;
+}
+.form-login .checkbox {
+	font-weight: normal;
+}
+.form-login .form-control {
+	position: relative;
+	font-size: 16px;
+	height: auto;
+	padding: 10px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.form-login .form-control:focus {
+	z-index: 2;
+}
+.form-login input[type='text'] {
+	margin-bottom: -1px;
+	border-bottom-left-radius: 0;
+	border-bottom-right-radius: 0;
+}
+.form-login input[type='password'] {
+	margin-bottom: 20px;
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+}
+.content-profile,
+.form-container {
+	margin: 10px auto;
+	padding-bottom: 3rem;
+	width: 80%;
+	text-align: center;
+	background-color: #000000d4;
+	color: white;
+}
+/* optional  */
+.scroll {
+	overflow-y: scroll;
+}
+.base {
+	background-image: url('http://cdn.skim.gs/images/woman-travelling-feature/jobs-for-people-who-love-to-travel');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.noBase {
+	background: url('https://images.trvl-media.com/media/content/expus/graphics/launch/home/tvly/150324_flights-hero-image_1330x742.jpg')
+		50% 50% repeat-y;
+}
